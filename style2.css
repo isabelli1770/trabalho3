@@ -1,0 +1,61 @@
+.princi{
+    background-color:rgb(238,130,238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+h1{
+    background-color: rgb(216,191,216);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 120px;
+    
+}
+button{
+    background-color: rgb(216,191,216);
+    width: 100px;
+    border-radius: 17px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+body{
+    background-color: rgb(255,105,180);
+}
+.circo{
+    background-color: rgb(238,130,238);
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+    
+    
+}
+.yoyo{
+display: flex;
+width:500px;
+border-radius: 17px;
+}
+.floflo{
+width: 500px;
+display: flex;
+border-radius: 17px;
+}
+.caneca{
+    background-color: rgb(238,130,238);
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;  
+
+}
+.caca{
+    display: flex;
+width:400px;
+border-radius: 17px;
+}
+.lui{
+    display: flex;
+width:400px;
+border-radius: 17px;
+}

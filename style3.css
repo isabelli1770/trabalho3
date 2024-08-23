@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255,105,180);
+}
+h1{
+    background-color: rgb(216,191,216);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 120px;
+    
+}
+button{
+    background-color: rgb(216,191,216);
+    width: 100px;
+    border-radius: 17px;
+    align-items: center;
+}
+.uyuy{
+    background-color:rgb(238,130,238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.isa{
+    display: flex;
+        font-size: 20px;
+        background-color: rgb(238,130,238);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 10px;
+}
+.nini{
+    background-color: rgb(238,130,238);
+    display: flex;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+    
+}
+.oioi{
+    width: 400px;
+    border-radius: 17px;
+    
+}

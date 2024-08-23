@@ -1,0 +1,107 @@
+.LALA{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: rgb(238,130,238);
+    
+    
+    
+    }
+    
+    h1{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: rgb(216,191,216);
+        
+    
+    }
+    button{
+        background-color: rgb(216,191,216);
+        border-radius: 10px;
+        width: 200px;
+        
+
+    
+        
+    }
+    body{
+        background-color: rgb(216,191,216);
+    }       
+    img{
+       justify-content: space-around;
+       display: flex;
+       width: 300px;
+       border-radius: 5px;
+       
+
+
+    }   
+    .bubu{
+        display: flex;
+        font-size: 20px;
+        background-color: rgb(238,130,238);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 10px;
+    }
+    .foto{
+        justify-content: space-around;
+        display: flex;
+        width: 400px;
+        border-radius: 17px;
+
+    }
+    .nini{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .foto2{
+        justify-content: center;
+        display: flex;
+        width: 400px;
+        border-radius: 17px;
+    }
+
+    .ouou{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .gremio{
+        display: flex;
+        margin-top: 20px;
+        justify-content: space-around;
+    }
+    .beleza{
+        background-color: rgb(238,130,238);
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 20px;}
+
+     .foto3{
+            margin-top: 10px;
+            width: 50px;
+            display: flex;
+            justify-content: space-around;
+            border-radius: 17px;
+    }
+    .foto4{
+        margin-top: 10px;
+        width: 50px;
+        display: flex;
+        justify-content: space-around;
+        border-radius: 17px;
+    }
+
+.foto5{
+    margin-top: 10px;
+    width: 50px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 17px;
+}
+p{
+    margin-top: 20px;
+    
+}
